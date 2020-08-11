@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "videojs-vr": "^1.7.1"
+  },
+  "name": "video-360",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
